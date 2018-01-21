@@ -1,0 +1,1 @@
+Chat program implemented with the React (CRA) and GraphCool.

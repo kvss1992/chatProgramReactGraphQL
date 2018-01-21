@@ -1,0 +1,3 @@
+targets:
+  chatServer: shared-eu-west-1/cjcnmamj03j7j0169s55yxpta
+  default: chatServer
